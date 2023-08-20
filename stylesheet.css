@@ -1,0 +1,295 @@
+.my-first-website {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .my-first-website .overlap-group-wrapper {
+    background-color: #ffffff;
+    border: 1px none;
+    height: 2683px;
+    width: 1920px;
+  }
+  
+  .my-first-website .overlap-group {
+    background-image: url(./rectangle-1.png);
+    background-size: 100% 100%;
+    height: 2596px;
+    left: 43px;
+    position: relative;
+    top: 39px;
+    width: 1827px;
+  }
+  
+  .my-first-website .croissant {
+    height: 648px;
+    left: 68px;
+    object-fit: cover;
+    position: absolute;
+    top: 250px;
+    width: 907px;
+  }
+  
+  .my-first-website .text-wrapper {
+    -webkit-text-stroke: 1px #000000;
+    color: #ac3333;
+    font-family: "Josefin Slab-Regular", Helvetica;
+    font-size: 128px;
+    font-weight: 400;
+    left: 1147px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-shadow: 0px 4px 4px #00000040;
+    top: 248px;
+    white-space: nowrap;
+  }
+  
+  .my-first-website .overlap {
+    background-image: url(./ellipse-3.svg);
+    background-size: 100% 100%;
+    height: 160px;
+    left: 77px;
+    position: absolute;
+    top: 33px;
+    width: 868px;
+  }
+  
+  .my-first-website .div {
+    -webkit-text-stroke: 1px #000000;
+    color: #ac3232;
+    font-family: "Josefin Slab-Regular", Helvetica;
+    font-size: 90px;
+    font-weight: 400;
+    left: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-shadow: 0px 4px 4px #00000040;
+    top: 44px;
+    white-space: nowrap;
+  }
+  
+  .my-first-website .overlap-2 {
+    height: 1558px;
+    left: 68px;
+    position: absolute;
+    top: 1012px;
+    width: 1695px;
+  }
+  
+  .my-first-website .overlap-3 {
+    height: 1558px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1695px;
+  }
+  
+  .my-first-website .overlap-4 {
+    height: 1438px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 831px;
+  }
+  
+  .my-first-website .ellipse {
+    height: 114px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 366px;
+  }
+  
+  .my-first-website .text-wrapper-2 {
+    -webkit-text-stroke: 1px #000000;
+    color: #ac3333;
+    font-family: "Josefin Slab-Regular", Helvetica;
+    font-size: 64px;
+    font-weight: 400;
+    left: 32px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-shadow: 0px 4px 4px #00000040;
+    top: 28px;
+    white-space: nowrap;
+  }
+  
+  .my-first-website .yield-croissants {
+    color: #000000;
+    font-family: "Josefin Slab-Regular", Helvetica;
+    font-size: 36px;
+    font-weight: 400;
+    left: 9px;
+    letter-spacing: 0;
+    line-height: 50px;
+    position: absolute;
+    top: 102px;
+    width: 822px;
+  }
+  
+  .my-first-website .span {
+    color: #000000;
+    font-family: "Josefin Slab-Regular", Helvetica;
+    font-size: 36px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 50px;
+  }
+  
+  .my-first-website .text-wrapper-3 {
+    font-family: "Josefin Slab-SemiBold", Helvetica;
+    font-weight: 600;
+    text-decoration: underline;
+  }
+  
+  .my-first-website .text-wrapper-4 {
+    text-decoration: underline;
+  }
+  
+  .my-first-website .overlap-5 {
+    height: 1332px;
+    left: 537px;
+    position: absolute;
+    top: 226px;
+    width: 1158px;
+  }
+  
+  .my-first-website .p {
+    -webkit-text-stroke: 1px #000000;
+    color: #000000;
+    font-family: "Josefin Slab-Regular", Helvetica;
+    font-size: 45px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-shadow: 0px 4px 4px #00000040;
+    top: 1287px;
+    white-space: nowrap;
+  }
+  
+  .my-first-website .step-twenty-four {
+    color: #000000;
+    font-family: "Josefin Slab-Bold", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 447px;
+    letter-spacing: 0;
+    line-height: 40px;
+    position: absolute;
+    top: 0;
+    width: 711px;
+  }
+  
+  .my-first-website .text-wrapper-5 {
+    font-weight: 700;
+  }
+  
+  .my-first-website .text-wrapper-6 {
+    font-family: "Josefin Slab-Regular", Helvetica;
+    font-size: 32px;
+  }
+  
+  .my-first-website .div-wrapper {
+    background-image: url(./ellipse-1.svg);
+    background-size: 100% 100%;
+    height: 114px;
+    left: 980px;
+    position: absolute;
+    top: 5px;
+    width: 209px;
+  }
+  
+  .my-first-website .text-wrapper-7 {
+    -webkit-text-stroke: 1px #000000;
+    color: #ac3333;
+    font-family: "Josefin Slab-Regular", Helvetica;
+    font-size: 64px;
+    font-weight: 400;
+    left: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-shadow: 0px 4px 4px #00000040;
+    top: 28px;
+    white-space: nowrap;
+  }
+  
+  .my-first-website .overlap-6 {
+    background-image: url(./ellipse-4.svg);
+    background-size: 100% 100%;
+    height: 114px;
+    left: 1586px;
+    position: absolute;
+    top: 35px;
+    width: 209px;
+  }
+  
+  .my-first-website .text-wrapper-8 {
+    -webkit-text-stroke: 1px #000000;
+    color: #ac3333;
+    font-family: "Josefin Slab-Regular", Helvetica;
+    font-size: 64px;
+    font-weight: 400;
+    left: 29px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-shadow: 0px 4px 4px #00000040;
+    top: 29px;
+    white-space: nowrap;
+  }
+  
+  .my-first-website .text-wrapper-9 {
+    -webkit-text-stroke: 1px transparent;
+    color: #000000;
+    font-family: "Josefin Slab-Light", Helvetica;
+    font-size: 48px;
+    font-weight: 300;
+    left: 1256px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    text-shadow: 0px 4px 4px #00000040;
+    top: 376px;
+    white-space: nowrap;
+  }
+  
+  .my-first-website .line {
+    height: 10px;
+    left: 84px;
+    position: absolute;
+    top: 968px;
+    width: 896px;
+  }
+  
+  .my-first-website .img {
+    height: 10px;
+    left: 1048px;
+    position: absolute;
+    top: 968px;
+    width: 702px;
+  }
+  
+  .my-first-website .text-wrapper-10 {
+    -webkit-text-stroke: 1px #00000033;
+    color: #000000;
+    font-family: "Josefin Slab-Light", Helvetica;
+    font-size: 32px;
+    font-weight: 300;
+    left: 1062px;
+    letter-spacing: 0;
+    line-height: 50px;
+    position: absolute;
+    text-align: center;
+    text-shadow: 0px 4px 4px #00000040;
+    top: 473px;
+    width: 687px;
+  }
